@@ -88,13 +88,13 @@ Basic functions are used to manipulate or gather information about the terrain. 
  generateLayer(noise)
  
  /** @param {vec2} position to offset the layer by*/
- setOffset(position) { this.mOffset = position; }
+ setOffset(position)
  
  /** @returns {TerrainSettings} terrain settings of layer*/
- getTerrainSettings() { return this.mTerrainSettings; }
+ getTerrainSettings()
  
  /** @param {TerrainSettings} terrainSettings new settings*/
- setNewTerrainSettings(terrainSettings){ this.mTerrainSettings = terrainSettings; }
+ setNewTerrainSettings(terrainSettings)
 ```
 
 ### Terrain
