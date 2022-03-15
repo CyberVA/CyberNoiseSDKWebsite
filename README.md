@@ -1,2 +1,2 @@
 # CyberNoise Terrain Generation SDK Website
-SDK website for Cybernoise's Terrain Generation
+Maintained by Vincent Allen and Ayrton Muniz
