@@ -265,6 +265,3 @@ Credit to https://github.com/WardBenjamin/SimplexNoise/blob/master/SimplexNoise/
  - General Performance of terrain generation.
  - Not every tile needs 2 triangles, an entire layer could consist of 2 triangles which would be much more performant.
  - Easier texture selection. Current sprite renderable implementation is difficult to use with tile sets with consistent width/height.
-
-## Gallary/Examples
-
